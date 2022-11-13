@@ -1,0 +1,5 @@
+                game.StarterGui:SetCore("SendNotification", {
+                    Title = "caught your ass in 4k nigga";
+                    Text = "dsc.gg/motw",
+                    Duration = 5
+                })
